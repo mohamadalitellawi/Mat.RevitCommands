@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mat.RevitCommands": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Program Files\\Autodesk\\Revit 2022\\Revit.exe"
+    }
+  }
+}

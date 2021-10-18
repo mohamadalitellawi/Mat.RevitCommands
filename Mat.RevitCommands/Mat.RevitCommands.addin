@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Mat.RevitCommands</Name>
+    <Assembly>Mat.RevitCommands.dll</Assembly>
+    <AddInId>
+		27432405-95AE-4075-8A02-7CFB513279EC
+	</AddInId>
+    <FullClassName>Mat.RevitCommands.GetElementId</FullClassName>
+    <Text>GetElementId</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Mat</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
